@@ -2,11 +2,8 @@ name: MakerTurtle on GitHub
 title: MakerTurtle on GitHub
 description: Easy access and quick descritions for cazh1 and MakerTurtle projects on GitHub
 markdown: kramdown
-<<<<<<< HEAD
-theme: jekyll-theme-dinky
+theme: jekyll-theme-hacker
 gems:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
-theme: jekyll-theme-hacker
->>>>>>> origin/master
