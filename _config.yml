@@ -1,3 +1,5 @@
-name: Jim Maclennan, Horrible Cop
+name: MakerTurtle on GitHub
+title: MakerTurtle on GitHub
+description: Easy access and quick descritions for cazh1 and MakerTurtle projects on GitHub
 markdown: kramdown
-theme: Dinkyd
+theme: jekyll-theme-dinky
